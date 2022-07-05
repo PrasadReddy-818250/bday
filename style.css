@@ -409,8 +409,8 @@ div#sea {
   border-radius: 50%;
   background: #bbb;
   box-shadow: inset -1.5px 0.75px 0 0 #aaa;
-  top: 35px;
-  right: 10px;
+  top: 5px;
+  right: 38px;
 }
 
 @media (min-width: 1000px) {
