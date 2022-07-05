@@ -410,7 +410,7 @@ div#sea {
   background: #bbb;
   box-shadow: inset -1.5px 0.75px 0 0 #aaa;
   top: 45px;
-  right: 15px;
+  right: 10px;
 }
 
 @media (min-width: 1000px) {
