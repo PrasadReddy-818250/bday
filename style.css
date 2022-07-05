@@ -381,8 +381,8 @@ div#sea {
 }
 .moon {
   position: absolute;
-  top: 10%;
-  right: 200px;
+  top: 15%;
+  right: 250px;
   width: 280px;
   height: 280px;
   border-radius: 50%;
