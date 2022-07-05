@@ -383,8 +383,8 @@ div#sea {
   position: absolute;
   top: 10%;
   right: 200px;
-  width: 155px;
-  height: 155px;
+  width: 255px;
+  height: 255px;
   border-radius: 50%;
   background: #ddd;
   box-shadow: inset 20px -10px 0 0 #b9b9b9;
