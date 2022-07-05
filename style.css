@@ -390,16 +390,6 @@ div#sea {
   box-shadow: inset 20px -10px 0 0 #b9b9b9;
 }
 
-.moon .crater1 {
-  position: absolute;
-  width: 20px;
-  height: 20px;
-  border-radius: 25%;
-  background: #bbb;
-  box-shadow: inset -3px 1.5px 0 0 #aaa;
-  top: 10px;
-  right: 10px;
-}
 
 .moon .crater2 {
   position: absolute;
