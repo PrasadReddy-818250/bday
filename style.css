@@ -397,8 +397,8 @@ div#sea {
   border-radius: 50%;
   background: #bbb;
   box-shadow: inset -3px 1.5px 0 0 #aaa;
-  top: 10px;
-  right: 15px;
+  top: 30px;
+  right: 35px;
 }
 
 .moon .crater2 {
